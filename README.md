@@ -1,6 +1,6 @@
 # Yahoo_crawler
 
-This is a project for clawing best selling products on yahoo
+This is a project for clawing best selling products on [Yahoo](https://tw.buy.yahoo.com/)
 
 ## Prerequisites
 
